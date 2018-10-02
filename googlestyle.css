@@ -1,2 +1,19 @@
-#linkhelp{display: flex;
-		align-items: flex-end;}
+.navbar{
+			line-height: 200%;
+		}
+#navbar{
+			display: flex;
+			justify-content: flex-end;
+		}
+#googleapp{
+			display: flex;
+			justify-content: space-around;
+			}
+#linkhelp{
+			display: flex;
+			justify-content: space-between;
+			align-items: flex-end;
+		}
+#linkus{
+			display: flex;
+		}
